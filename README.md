@@ -66,6 +66,6 @@ Includes:
 
 ## 📌Author
 **Kaliraj R**
-MBA Graduate | Data Analyst
-📧 kalirajkarthi3@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/kaliraj-r-3s/)
+- MBA Graduate | Data Analyst
+- 📧 kalirajkarthi3@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kaliraj-r-3s/)

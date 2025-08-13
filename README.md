@@ -64,8 +64,8 @@ Includes:
 - Histograms for profit margins and cost distribution
 - Scatter plots for cost vs sales
 
-## 📌Author
-**Kaliraj R**
-- MBA Graduate | Data Analyst
-- 📧 kalirajkarthi3@gmail.com
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kaliraj-r-3s/)
+## 📌 Author
+**Kaliraj R**  
+MBA Graduate | Data Analyst  
+📧 kalirajkarthi3@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/kaliraj-r-3s)
